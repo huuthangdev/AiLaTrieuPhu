@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ai Là Triệu Phú</string>
+    <string name="start_game">BẮT ĐẦU</string>
+    <string name="my_score">my_score</string>
+    <string name="quit">THOÁT</string>
+    <string name="withdraw">BỎ CUỘC</string>
+    <string name="Audience_answers">Quyền trợ giúp</string>
+    <string name="okay">Chọn</string>
+    <string name="main_menu">Trở về</string>
+    <string name="game_over">Kết thúc! Điểm của bạn: </string>
+    <string name="money">VNĐ</string>
+    <string name="withdraw_sure">Bạn có chắc là muốn bỏ cuộc ?</string>
+    <string name="no">Không</string>
+    <string name="yes">Có</string>
+    <string name="time">giây</string>
+    <string name="point">điểm</string>
+    <string name="duetoscore">Bảng điểm</string>
+    <string name="clearall">Xóa</string>
+    <string name="duetodate">Thời gian</string>
+    <string name="seeit">Nhìn vào</string>
+    <string name="fourthprogramad">Đúng hoặc sai</string>
+    <string name="game_over_final">Chúc mừng! Bạn đã thành triệu phú. Hãy tận hưởng điiiii!!</string>
+    <string name="sound">Nhạc</string>
+    <string name="thanks">Cảm ơn!</string>
+</resources>
